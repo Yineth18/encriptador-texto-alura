@@ -201,7 +201,7 @@ footer p {
 
     .btn-copiar {
         width: 100%;
-        position: static;
+        position: center;
         margin-top: 10px;
     }
 
